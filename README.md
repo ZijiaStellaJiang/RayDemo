@@ -21,6 +21,4 @@ To implement federated learning with Ray, we can use the Rayfed package which is
 This package adds features like data perimeters, multi controller and so on. 
 To get started, install package in the project by running the following command.
 
-not working currently, package not able to recognize
-
-`pip install rayfed`
+`pip install -U rayfed-nightly`
